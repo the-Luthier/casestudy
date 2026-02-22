@@ -98,7 +98,7 @@ _Results from `ggf-case metrics`:_
 | MRR                | 1.000                                              |
 | NDCG@12            | 0.877                                              |
 | Hit Rate           | 1.000                                              |
-| Retrieval Strategy | hybrid (BM25=1.4, Embedding=1.4, Keyword=0.2, k=5) |
+| Retrieval Strategy | hybrid (BM25=1.4, Embedding=1.4, Keyword=0.2, k=12) |
 
 ### Per-Task Results / Gorev Bazinda Sonuclar
 
